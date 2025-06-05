@@ -19,4 +19,4 @@ questions[["Id", "text", "Predicted Tags"]].to_csv("top10_stackoverflow_predicti
 ```
 
 ### Author
-Parmeet Singh
+Parmeet Singh Majethiya
